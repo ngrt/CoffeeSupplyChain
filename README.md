@@ -12,6 +12,13 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_transaction_history.png)
 
+## Contract Addresses
+
+* FarmerRole: 0x1aB06732FA46e2a139f206A1629F9878c263531c
+* DistributorRole: 0xC8D314013437081f4c375db7614F6e5D4E34014C
+* RetailerRole: 0x5055E53A90c06d5E92d14ADc3951a3479f456Fae
+* ConsumerRole: 0x8C15861ab152828Cbdb4696a42EAB8d8D3f22A29
+* SupplyChain: 0xB2A725f13Db9CB16257586E4e4bd67455116bD20
 
 ## Getting Started
 

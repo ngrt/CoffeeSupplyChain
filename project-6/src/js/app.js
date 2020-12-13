@@ -208,7 +208,7 @@ App = {
 		reader.readAsArrayBuffer(photo); // Read Provided File
 	},
 	
-	function(event) {
+	processItem: function (event) {
 		event.preventDefault();
 		var processId = parseInt($(event.target).data('id'));
 		
@@ -220,9 +220,7 @@ App = {
 		}).catch(function (err) {
 			console.log(err.message);
 		});
-	}
-	
-	,
+	},
 	
 	packItem: function (event) {
 		event.preventDefault();

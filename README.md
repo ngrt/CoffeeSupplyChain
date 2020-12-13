@@ -20,6 +20,18 @@ The DApp User Interface when running should look like...
 * ConsumerRole: 0x8C15861ab152828Cbdb4696a42EAB8d8D3f22A29
 * SupplyChain: 0xB2A725f13Db9CB16257586E4e4bd67455116bD20
 
+## Transaction hashes
+
+* harvestItem: 0x66ce18a1e712c70171a44ce907578e2fd65b4443091d8f3e1611982c35a3e303
+* processItem: 0x86072c14523fb691cc72ff1e11a120a162e01268c15a5027764d100540496cf6
+* packItem: 0xdb8a5cbaa06874a0661f8954c310f07cc4d663d1415d63e5b8bf90b83eea6a33
+* sellItem: 0xbc77784665fea49272568f556cc79bd212886a4d677f887d8d5499464535cbfa
+* buyItem: 0x2fdb822aeded0ac7d15fb5fbb38be9d4ddc73200d1d54e2cb7f7d842fa6e0b11
+* shipItem: 0xe814f5f6a076961a857466327cde13f90762467c0b22bc8d16561ad9bcd01064
+* receiveItem: 0xc112faeece8e3c8554c0af56b0d62430dc1d8410f029ace84295fe37d71f14c3
+* purchaseItem: 0x92afa17fffdc37df59d82bc75e63651ac5837caf66397655093212dfad456128
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
